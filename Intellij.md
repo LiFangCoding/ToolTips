@@ -88,6 +88,78 @@ ifn   if (== null)
 make templates .  in system preferendce, click add to add group, add template. avvreviate, description.
 
 
+# Debugging Essentials
+## Debugging fundamentals
+debug . control + D
+
+add,delete break point during debug session. Jump to the cursor.   rightdown arrow
+
+##step in, out of code
+step . F8
+
+add specific items to watch window.  right click, add to watches.  No need to set the breakpoint at the line. run to cursor
+
+can use calculator to calculate value of function of current frames   click calculator on the top level
+
+see all breakpoints .          on left side, favorites, breakpoints
+
+Hide active tool window .        shift + esc
+
+## Advanced debugging options
+breakpoints . right click it. only when condition is met        in condition part
+
+right click breakpoints.  select more.  
+see all the breakpoints.    
+java filed points.  click the add arrow.
+
+# Git integration
+                                                   
+VCS . create git repository .         
+
+commit changes  cmmand + K
+
+checkout new branch    right corner.
+
+Authorbox .   select differenct author
+
+pugin .ignore    git ignore file. select java, means project on java
+
+left side. Can see local changes.   
+
+git command can see on console, log
+
+
+##Github
+in system preference.  github, host, github.com
+
+vcs, share on github.
+
+# Junit test
+
+## Testing with Junit
+
+Directory, package, test.  
+
+create test class. @Test.  automaticlly
+
+hightlight class name in src, option + enter, create test for this class methods. (very fast)
+
+Run tests for different modules together.   In edit configuration, left side, for the modules to add, click share. Then change name, click add in bottom, run another configuration. 
+
+## Code coverage
+This only works in module, not modules together.
+Right clisk test, run all test with coverrage. Or run with icon next to debug.
+
+clear coverage.   Analyze -> clear coverage
+
+Run the project with coverage.   show the code covered.
+
+
+TODO:
+
+#working with Maven
+
+#Fun tips and tricks with the IDE
 
 
 

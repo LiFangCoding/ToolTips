@@ -52,7 +52,7 @@ can change in setting, intentions.
 
 # Refactoring in intellij
 
-
+extract variable option + command + v(variable)
 
 
 

@@ -52,7 +52,34 @@ can change in setting, intentions.
 
 # Refactoring in intellij
 
+## common refactoring
 extract variable option + command + v(variable)
+
+Rename   shift + f6
+
+change parameters of method  control + T. change signature. click Delegate, can modify, add, delete
+
+make the parameters more than 3 as a object .  control + T. extract parameters object (this is useful. validation argument)
+
+move method from one class to another class .  contral + T and move.
+
+add interface of class .   control + T, choose interface
+
+## larger refactoring
+change control + T, type migration
+
+class control + T  replace constructor with fatory 
+
+
+
+
+
+
+
+
+
+
+
 
 
 

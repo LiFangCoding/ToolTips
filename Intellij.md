@@ -70,6 +70,25 @@ change control + T, type migration
 
 class control + T  replace constructor with fatory 
 
+# Live templates
+save a lot of code, faster and accurately
+
+extend selection .  option + up arrow
+
+fori  tap, has the for loop there.
+
+see all templates, insert live template.  command + j
+
+psf    private static final
+
+psvm  public static void main
+
+ifn   if (== null)
+
+make templates .  in system preferendce, click add to add group, add template. avvreviate, description.
+
+
+
 
 
 

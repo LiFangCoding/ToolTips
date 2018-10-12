@@ -156,10 +156,35 @@ Run the project with coverage.   show the code covered.
 
 
 TODO:
-
-#working with Maven
-
 #Fun tips and tricks with the IDE
+
+## Demo: Tips and Tricks
+
+Extend Selection   option + up arrow
+move selection up and down .  shift + command + up arrow
+
+find action . shift + command + A  color picker
+
+auto format code: option + command + L
+
+click Anallyze -> cleanup  
+
+Refactor: Find and replace code duplicates
+
+change editor view:  control + `
+
+Move caret to next word with selection  option + shift + right arrow
+
+know the parameters of method . command + P
+Autocomple the parameters.   basic ompletion  control + spance
+
+Complete current statement .     shift + command + enter
+
+Find effective commands .   use command +shift + A, open productivity guide. show the commands.
+
+
+ 
+
 
 
 

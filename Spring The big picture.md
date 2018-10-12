@@ -14,3 +14,5 @@ The spring framework is modular. Seperate individual components that be can conn
 Six key areas:
 Core | web | aop | data access| Integration | Testing
 
+spring core. Foundations for other five modules.
+Dependency injection. Objects represent or model real-life things. Objects do not exist by themselves.

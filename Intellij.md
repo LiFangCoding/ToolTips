@@ -1,3 +1,21 @@
+#Intellij Structure
+ [] .idea    
+ [] src
+    [] main
+      [] java   
+           com.simpleproject
+             SimpleClass.java
+      [] resources
+    [] test
+      [] java
+           com.simpleproject
+             SimpleClassTest.java
+      [] resources
+      
+Working with modules
+https://www.jetbrains.com/help/idea/creating-and-managing-modules.html
+
+
 # Code Navagation and Generation
 https://help.github.com/articles/basic-writing-and-formatting-syntax/
 

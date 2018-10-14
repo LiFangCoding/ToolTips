@@ -1,4 +1,5 @@
 # Intellij Structure
+
  [] .idea
  
  [] src

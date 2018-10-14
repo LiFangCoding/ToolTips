@@ -1,4 +1,4 @@
-#Intellij Structure
+# Intellij Structure
  [] .idea    
  [] src
     [] main

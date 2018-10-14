@@ -1,15 +1,20 @@
 # Intellij Structure
- [] .idea    
+ [] .idea
+ 
  [] src
+ 
     [] main
-      [] java   
-           com.simpleproject
-             SimpleClass.java
+    
+      [] java  
+      
       [] resources
+      
     [] test
+    
       [] java
+      
            com.simpleproject
-             SimpleClassTest.java
+           
       [] resources
       
 Working with modules

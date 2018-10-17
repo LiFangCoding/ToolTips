@@ -1,6 +1,8 @@
 # Plugins
 Save actions plugins can optimize, reformat code.
 
+working with moduels. Set root, test directory. 
+https://www.jetbrains.com/help/idea/creating-and-managing-modules.html
 
 # Intellij Structure
 

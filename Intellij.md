@@ -27,9 +27,11 @@ https://www.jetbrains.com/help/idea/creating-and-managing-modules.html
 Working with modules
 https://www.jetbrains.com/help/idea/creating-and-managing-modules.html
 
+# Markdown format
+https://help.github.com/articles/basic-writing-and-formatting-syntax/
 
 # Code Navagation and Generation
-https://help.github.com/articles/basic-writing-and-formatting-syntax/
+
 
 ## Search files
 Global search everywhere: double shift

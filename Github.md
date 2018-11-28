@@ -1,5 +1,8 @@
 This is for common usage of github.
 
+gitconfig alias
+https://gist.github.com/pksunkara/988716
+
 For gitignore configuration,
 https://github.com/github/gitignore
 
